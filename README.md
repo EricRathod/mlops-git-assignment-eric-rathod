@@ -23,3 +23,9 @@ Eric Rathod
 
 Name: Eric Rathod
 Student ID: 131220253
+
+
+## Course Information
+
+Course Code: MAI201
+Date: June 2026
