@@ -12,3 +12,8 @@ This repository demonstrates Git branching, pull requests, merge conflicts, and 
 2. Create a feature branch
 3. Make changes
 4. Create a pull request
+
+
+
+## Author
+Eric Rathod
