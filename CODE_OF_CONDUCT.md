@@ -20,3 +20,6 @@ We are committed to providing a welcoming and respectful environment for everyon
 ## Enforcement
 
 Project maintainers may remove comments or contributions that violate this code of conduct.
+## Contact
+
+For questions regarding this Code of Conduct, contact the project maintainer.
