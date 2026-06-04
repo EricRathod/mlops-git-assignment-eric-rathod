@@ -17,3 +17,9 @@ This repository demonstrates Git branching, pull requests, merge conflicts, and 
 
 ## Author
 Eric Rathod
+
+
+## Student Information
+
+Name: Eric Rathod
+Student ID: 131220253
