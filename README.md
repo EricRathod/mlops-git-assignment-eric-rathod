@@ -15,6 +15,5 @@ This repository demonstrates Git branching, pull requests, merge conflicts, and 
 
 
 
-## Author
-Eric Rathod
-Student ID: 131220253
+Author
+Eric Rathod - Course Code: MAI201
